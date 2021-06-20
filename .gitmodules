@@ -10,3 +10,6 @@
 [submodule "spring_framework"]
 	path = spring_framework
 	url = https://github.com/muhyasin89/spring_framework.git
+[submodule "java_basic"]
+	path = java_basic
+	url = https://github.com/muhyasin89/java_basic.git
