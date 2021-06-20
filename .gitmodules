@@ -1,15 +1,15 @@
 [submodule "demo"]
-	path = demo
+	path = Basic/demo
 	url = https://github.com/muhyasin89/spring_demo.git
 [submodule "spring_demo"]
-	path = spring_demo
+	path = Basic/spring_demo
 	url = https://github.com/muhyasin89/spring_demo.git
 [submodule "spring_basic"]
-	path = spring_basic
+	path = Basic/spring_basic
 	url = https://github.com/muhyasin89/spring_basic.git
 [submodule "spring_framework"]
-	path = spring_framework
+	path = Basic/spring_framework
 	url = https://github.com/muhyasin89/spring_framework.git
 [submodule "java_basic"]
-	path = java_basic
+	path = Basic/java_basic
 	url = https://github.com/muhyasin89/java_basic.git
